@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Starter for creating a Gatsby Theme workspace
+  Starter for creating a Gatsby Theme workspace - Test for Amplify Console :)
 </h1>
 
 ```shell
